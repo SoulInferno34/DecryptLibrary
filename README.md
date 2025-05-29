@@ -1,16 +1,9 @@
 # Project: Decrypt Libary
-Hello and welcome to Project: Decrypt Libary. This project is brought to you by the one and only Calviar Corp; where we are unearthing the secrets of the cyber world today
-Wait!...You seem like someone who could help us track him down...do you wish to assist us on our mission?
+Hello? Hello? Is anyone reciving this transmission? We are Calviar Corps, where we are trying to uncover the buried secrets in this little cyberspace called hone. We have found a new region that we have been exploring for quiet a while now, but something has gone terribly wrong. There should be a Decryption site somewhere where you can find the blueprints to the "Hallows"...If anyone gets this, please we need help...
 
 # What Is this Project?
-Project: Decrypt Libary is a Vectorio side story which takes place in a new, unearthed reigon known as the "Sanctuary" discovered by Calviar Corp.
-The corperation has been tracking down a seemingly unkown force in this reigon that has been messing with thier systems; taking control of thier outpost, and even their own Gaurdian Class units.
-Your main job is to help the Corperation track down whatever is causing the problem and shut it down; though this isnt going to be easy.
+Project: Decrypt Libary is a Vectorio side story which takes place in a new, unearthed region known as the "Hallows" discovered by Calviar Corps.
+Calviar Corps had discovered the "Harrowing Hallows" region a while back. Exploring it long enough they managed to re-activate what seems like a Guardian created by who-knows what. The Guardian (when it was awoken) had hijacked most of the bases and Guardian Class Units sent by company to explore the area.
+In a desprate attempt to restore the project they sent out a SOS...and it reached you.
 
-
-# Faction: Etheria
-The Etheria Faction composses of discarded units or ships by other companies; treating the Sanctum reigon as a dump site. Whatever was in this reigon managed to re-activate thier coding for its own protection and stop anyone who enters the Sanctum.
-Gaurdians from Calviar have been seen roaming the area without being given a patrol point or objective; so the gaurdians have been deemed rouge...
-
-
-MORE INFORMATION SOON _
+This is going to start out as a small practice project I'll do to home my skills on Vectorio; if you guys like it I'll expand on the story and add more :).
